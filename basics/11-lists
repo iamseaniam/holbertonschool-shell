@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l --block-size=K --time-style=long-iso --group-directories-first.
+ls -la
