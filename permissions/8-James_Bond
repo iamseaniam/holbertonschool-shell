@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod ug-rwxo+rwx hello
+chmod 0111 filename
+
