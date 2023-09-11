@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 777 permissons
+chmod -R ugo+rwx permissons
