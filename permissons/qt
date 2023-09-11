@@ -1,6 +1,0 @@
-#!/bash
-  
-# Provided a fixed username
-username="iamseaniam"
-
-echo "username=$username"
