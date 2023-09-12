@@ -1,2 +1,2 @@
-#!/bin/bas
-chmod -R 777 
+#!/bin/bash
+chmod -R +x 
