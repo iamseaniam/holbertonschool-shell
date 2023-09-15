@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l . -type d -name '.*' 
+find . -type d -name '.*' | wc -l 
