@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+/* it does somthing*/
+
+while ifs=: read -r c1 _ c3 _ _ c6 _
+do
+	echo "$c1:$c3:$c6"
+done < /etc/passwd
